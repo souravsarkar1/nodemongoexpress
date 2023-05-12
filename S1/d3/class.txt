@@ -1,0 +1,6 @@
+HTTP Verbs/Methods?
+=>GET :- To read something from the server
+=>POST :- To post something in server
+=>PUT :- Modificatio/Update // completely
+=>PATCH :- Modificatio / Update // partially 
+=>DELETE :- to DELETE
